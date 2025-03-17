@@ -1,4 +1,4 @@
-age = input("请输入您的年龄: ")
+age = input("Enter your age: ")
 
 try:
     age = int(age)
